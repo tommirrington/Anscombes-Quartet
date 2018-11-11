@@ -2,7 +2,7 @@
 An exploratory analysis and investigation into Anscombe's Quartet
 
 To run the notebook:
-clone or download repository
-Open terminal and navigate to the local repository
-Use the command 'jupyter notebook' which will open in your default browser
-Select 'Anscombes-Quartet.ipynb' to open
+1. clone or download repository
+1. Open terminal and navigate to the local repository
+1. Use the command 'jupyter notebook' which will open in your default browser
+1. Select 'Anscombes-Quartet.ipynb' to open
